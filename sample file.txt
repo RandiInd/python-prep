@@ -1,0 +1,4 @@
+Sun : Sunday
+Mon : Monday
+Tue : TuesdayWed : Wednesday
+Wed : Wednesday
